@@ -5,3 +5,7 @@
 ### My Reflection
 
 This article is not a conventional "AI will replace programmers" type clickbait, but instead it talks about how AI will change what programming will look like. With the trend nowadays of AI writing more and more code, eventually all routine and simple code will be written by AI instead of software engineers. Thus, the jobs of software engineers change, from typing away endlessly at a keyboard for a simple function to organizing and extracting AI code and thoughts, deciding what should be built, how the code should be structured, etc. The article also says that even if AI writes all the code, the humans will still be responsible for ensuring correctness, since AI code often comes with flaws, hence the name "AI slop", preventing security flaws, and making ethical product decisions, something that cannot be left to AI.
+
+
+### Comments from Claire Wu
+I agree with the article and your opinion that software engineers will not replace by AI but their jobs are no longer simply coding. I also found it interesting that the author codes on their phone. I really want to try that. 
